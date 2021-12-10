@@ -1,0 +1,32 @@
+.ms_background-color {
+    background-color: rgb(61, 10, 109);
+}
+
+
+.ms_title-color {
+    color: #fff;
+    font-size: 50px;
+}
+
+.ms_box {
+    color: #fff;
+    height: 120px;
+    background-color: brown;
+    line-height: 120px;
+    font-size: 20px;
+}
+
+.ms_box-fizz {
+    background-color: cadetblue;
+    color: #000;
+}
+
+.ms_box-buzz {
+    background-color: chartreuse;
+    color: #000;
+}
+
+.ms_box-fizzbuzz {
+    background-color: darkkhaki;
+    color: #000;
+}

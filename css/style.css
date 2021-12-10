@@ -2,6 +2,9 @@
     background-color: rgb(61, 10, 109);
 }
 
+.ms_background-color-b {
+    background-color: rgb(156, 88, 219);
+}
 
 .ms_title-color {
     color: #fff;
@@ -10,9 +13,9 @@
 
 .ms_box {
     color: #fff;
-    height: 120px;
+    height: 112px;
     background-color: brown;
-    line-height: 120px;
+    line-height: 112px;
     font-size: 20px;
     border-radius: 50%;
 }
